@@ -7,7 +7,7 @@
 <body> 
     
 <?php
-$ = "PHP";
+$txt = "PHP";
 
 echo "<h2>$txt</h2>";
 ?>
